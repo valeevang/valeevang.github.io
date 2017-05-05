@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+		<link href="https://fonts.googleapis.com/css?family=Fanwood+Text" rel="stylesheet">
+		<title></title>
+	</head>
+	<body>
+		<div id="header">
+			<p id="name">Valee Vang</p>
+			<a href="mailto:you@yourdomain.com"><p id="email">valeevang@gmail.com</p></a>
+		</div>
+		<div class="left"></div>
+		<div class="right">
+			<h4>Objective</h4>
+			<p>To take a position with as a fashion vlogger.</p>
+			<h4>Experience</h4>
+			<p>Fashion Stylist (2014 - Present)</p>
+			<ul>
+				<li>Stlyed and dressed clients</li>
+				<li>Freelance photgrapher</li>
+			</ul>
+			<h4>Skills</h4>
+			<p>Background knowledge in film and editing</p>
+			<p>MUA Freelance</p>
+			<h4>Education</h4>
+			<p>Health and Science, Fresno State</p>
+			<ul>
+				<li>Creator of ValeeGirl.com</li>
+				<li>Fashion Blogger</li>
+			</ul>
+		</div>
+		<div id="footer">
+			<p>222 Funktown, CA, 12345-6789 | Tel: (555) 555-5555</p>
+		</div>
+	</body>
+</html>
